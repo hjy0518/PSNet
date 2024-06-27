@@ -13,6 +13,6 @@
 ## RGB-D Saliency maps
 * You can download the tested results map at Baidu Pan link (https://pan.baidu.com/s/1QP7yIgM-8gY9jXR8cdlJSA)(Code:a3ez)
 ## Evaluate
-* You can get the assessment tool at this link (https://github.com/zyjwuyan/SOD_Evaluation_Metrics)
+* You can get the assessment tool at this link (https://pan.baidu.com/s/1vAAmcOeeijSQx2VRw2jo_w)(Code:lamx)
 ## Citation
 Feel free to send e-mails to me (1292724376@qq.com).
